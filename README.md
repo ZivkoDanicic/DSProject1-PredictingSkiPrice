@@ -1,1 +1,1 @@
-# DataScienceProject
+# DataScienceProject - Ski Resort Price Prediction
